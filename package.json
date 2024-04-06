@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/jquery": "^3.5.29",
+    "@types/node": "^20.12.5"
+  },
+  "name": "numberguessingame",
+  "version": "1.0.1",
+  "main": "game.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
